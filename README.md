@@ -59,3 +59,13 @@ The rating disc was extruded at 10mm
 # Rotating Disk Photos Onshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Rotating%20disk%20extrude.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Rotating%20disk%20sketch.png)
+
+# Water Container Measurments
+The diameter of the water container is 110mm
+The depth of the water jug is 65mm
+The shell thickness is 8mm
+
+# Water Container Photos Onshape
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Water%20container%20extrude.PNG)
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Water%20container%20skectch.PNG)
+
