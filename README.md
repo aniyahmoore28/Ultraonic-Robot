@@ -18,3 +18,6 @@ When something is 10 millimeters away from sensor it will
 	Rotate disc once
 
 When switch is flipped power gets cut
+
+# Paper Sketch
+![]https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Robot%20paper%20sketch.jpeg
