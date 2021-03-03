@@ -33,18 +33,18 @@ This was our first paper sketch, it helped up create the concept we were going f
 # Parts
 
 # Arm measurments
-The base circle of the arm is 24mm
-The length of the pole is 220mm
+* The base circle of the arm is 24mm
+* The length of the pole is 220mm
 
 # Arm Photos Oneshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Arm%20measurments%20circle.PNG)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Arm%20measuments%20pole.PNG)
 
 # Plant Holder Measurments
-The plant holder was extruded to make a height of 170.
-The base of the plant holder are 110mm
-Drafted at 8 degrees
-A shell was then placed on the outer edge for a cleaner look
+* The plant holder was extruded to make a height of 170.
+* The base of the plant holder are 110mm
+* Drafted at 8 degrees
+* A shell was then placed on the outer edge for a cleaner look
 
 # Plant Holder Photos Onshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20edges.png)
@@ -52,25 +52,25 @@ A shell was then placed on the outer edge for a cleaner look
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20base%20circle.png)
 
 # Base Measurments
-The base was extruded 5mm
-The diameter of the base oval Is 144.802mm
+* The base was extruded 5mm
+* The diameter of the base oval Is 144.802mm
 
 # Base Measurments Photos Onshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Base%20extrude.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Base%20extrude%20sketch.png)
 
 # Rotating disc Measurments
-The diameter if the rotating disc Is 145mm
-The rating disc was extruded at 10mm
+* The diameter if the rotating disc Is 145mm
+* The rating disc was extruded at 10mm
 
 # Rotating Disk Photos Onshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Rotating%20disk%20extrude.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Rotating%20disk%20sketch.png)
 
 # Water Container Measurments
-The diameter of the water container is 110mm
-The depth of the water jug is 65mm
-The shell thickness is 8mm
+* The diameter of the water container is 110mm
+* The depth of the water jug is 65mm
+* The shell thickness is 8mm
 
 # Water Container Photos Onshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Water%20container%20extrude.PNG)
