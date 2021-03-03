@@ -28,5 +28,18 @@ This was our first paper sketch, it helped up create the concept we were going f
 # Arm measurments
 The base circle of the arm is 24mm
 The length of the pole is 220mm
+
+# Arm Photos Oneshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Arm%20measurments%20circle.PNG)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Arm%20measuments%20pole.PNG)
+
+# Plant Holder Measurments
+The plant holder was extruded to make a height of 170.
+The base of the plant holder are 110mm
+Drafted at 8 degrees
+A shell was then placed on the outer edge for a cleaner look
+
+# Plant Holder Photos Onshape
+![](
+![](
+![](
