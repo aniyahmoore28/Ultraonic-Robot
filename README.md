@@ -5,6 +5,13 @@
 * [Rotating disc measurments](#Rotating-disc-measurments)
 * [Water container measurments](#Water-Container-Measurments)
 
+## Photos
+* [Paper Sketch](#Paper-Sketch)
+* [Arm Photos Onshape(#Arm-Photos-Onshape)
+* [Plant Holder Photos Onshape(#Plant-Holder-Photos-Onshape)
+* [Base Measurments Photos Onshape(#Base-Measurments-Photos-Onshape)
+*
+
 # Ultraonic-Robot
 
 # Project description
@@ -36,7 +43,7 @@ This was our first paper sketch, it helped up create the concept we were going f
 * The base circle of the arm is 24mm
 * The length of the pole is 220mm
 
-# Arm Photos Onshape
+# Arm Photos Oneshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Arm%20measurments%20circle.PNG)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Arm%20measuments%20pole.PNG)
 
