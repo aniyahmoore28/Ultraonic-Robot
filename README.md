@@ -1,9 +1,9 @@
 ## Measurments
-[Arm Measurments](#Arm-Measurments)
-[Plant Holder measurments](#Plant-Holder-Measurments)
-[Base Measurments](#Base-measurments)
-[Rotating disc measurments](#Rotating-disc-measurments)
-[Water container measurments](#Water-Container-Measurments)
+* [Arm Measurments](#Arm-Measurments)
+* [Plant Holder measurments](#Plant-Holder-Measurments)
+* [Base Measurments](#Base-measurments)
+* [Rotating disc measurments](#Rotating-disc-measurments)
+* [Water container measurments](#Water-Container-Measurments)
 
 # Ultraonic-Robot
 
