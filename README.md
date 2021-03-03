@@ -43,3 +43,11 @@ A shell was then placed on the outer edge for a cleaner look
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20edges.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20height.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20base%20circle.png)
+
+# Base Measurments
+The base was extruded 5mm
+The diameter of the base oval Is 144.802mm
+
+# Base Measurments Photos Onshape
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Base%20extrude.png)
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Base%20extrude%20sketch.png)
