@@ -28,5 +28,5 @@ This was our first paper sketch, it helped up create the concept we were going f
 # Arm measurments
 The base circle of the arm is 24mm
 The length of the pole is 220mm
-![](
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Arm%20measurments%20circle.PNG)
 ![](
