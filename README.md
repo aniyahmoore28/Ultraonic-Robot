@@ -51,3 +51,11 @@ The diameter of the base oval Is 144.802mm
 # Base Measurments Photos Onshape
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Base%20extrude.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Base%20extrude%20sketch.png)
+
+# Rotating disc Measurments
+The diameter if the rotating disc Is 145mm
+The rating disc was extruded at 10mm
+
+# Rotating Disk Photos Onshape
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Rotating%20disk%20extrude.png)
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Rotating%20disk%20sketch.png)
