@@ -40,6 +40,6 @@ Drafted at 8 degrees
 A shell was then placed on the outer edge for a cleaner look
 
 # Plant Holder Photos Onshape
-![](
-![](
-![](
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20edges.png)
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20height.png)
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Plant%20holder%20base%20circle.png)
