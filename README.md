@@ -13,7 +13,7 @@
 * [Rotating Disk Photos Onshape](#Rotating-Disk-Photos-Onshape)
 * [Water Container Photos Onshape](#Water-Container-Photos-Onshape)
 * [Code Photos](#Code-Photos)
-* [Final code Photos(updated)](#Final-code-Photos-(updated))
+* [Final code Photos](#Final-code-Photos-(updated))
 
 # Ultraonic-Robot
 
@@ -93,7 +93,7 @@ This was our first paper sketch, it helped up create the concept we were going f
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%204.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%205.png)
 
-# Final code Photos (updated)
+# Final code Photos
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20(update)%201.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20(update)%202.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20(update)%203.png)
