@@ -101,4 +101,4 @@ This was our first paper sketch, it helped up create the concept we were going f
 We stumbled upon the issue of our dispenser being too haevy, this means the soinning feature had to be trminated. It would have not been possible due to the fact it is about 2 pounds. We overcame this by ditching that idea, it was also a slight win because we did not need to writ the code for it anymore. Another proble was the arm attached to the base, it was too tall for the 3D printer so we improvised by using a pvcp pipe instead. Other than that we had the parts made in Onshape and we printed our first peice today. The part we printed was a test to see if we need to adjust any of the other parts so we dont waste any material. After we clarify we will print the rest of the parts and figure out what kind of plant potter would best suit the height and width of our base. 
 
 # Google Doc Link
-
+https://docs.google.com/document/d/1n41_dtQxoOj0WfsT7xxDthgGsQDMERoOHVJ6IN64p8I/edit
