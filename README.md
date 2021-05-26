@@ -92,8 +92,6 @@ This was our first paper sketch, it helped up create the concept we were going f
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%203.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%204.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%205.png)
-
-# Final code Photos
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20(update)%201.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20(update)%202.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20(update)%203.png)
@@ -103,3 +101,7 @@ We stumbled upon the issue of our dispenser being too haevy, this means the soin
 
 # Google Doc Link
 https://docs.google.com/document/d/1n41_dtQxoOj0WfsT7xxDthgGsQDMERoOHVJ6IN64p8I/edit
+
+# Final code Photos
+
+
