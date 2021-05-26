@@ -105,4 +105,7 @@ https://docs.google.com/document/d/1n41_dtQxoOj0WfsT7xxDthgGsQDMERoOHVJ6IN64p8I/
 
 # Final code Photos
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20Code%20Photo%202.png)
+![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Final%20Code%20Photo%201.png)
 
+# Final Reflection
+I have leared so much from this project. It allowed me to problem solve and think through my problems no matter how big they are. Being able to play with trial and error also really helped to teach me other great ways to find my solutions. And having a great partener also really helped, we were able to comunicate and solve issues with our code or pieces together. Since we are in a global pandemic i doubtd the usefullness of the class at first, but it has showed and motivated me to continue to do what i love no matter the obstacles that are in my way. I would love to do this again under better circumstances along with self improvements. Never would i have though and engineering project could shed so much light on the harbored unused potentiel i was storing. I am so thankful an oppurtunity like this was give to me and i would like to thank my teacher and my amamzing partner for the support and help along the way. 
