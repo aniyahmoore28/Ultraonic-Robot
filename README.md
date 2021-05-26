@@ -14,7 +14,7 @@
 * [Water Container Photos Onshape](#Water-Container-Photos-Onshape)
 * [Code Photos](#Code-Photos)
 * [Final code Photos](#Final-code-Photos)
-* [Code Photos *Not Finals*](#Code-Photos-*Not Finals*)
+* [Code Photos Not Finals](#Code-Photos-Not Finals)
 
 # Ultraonic-Robot
 
@@ -87,7 +87,7 @@ This was our first paper sketch, it helped up create the concept we were going f
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Water%20container%20extrude.PNG)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Water%20container%20skectch.PNG)
 
-# Code Photos *Not Finals*
+# Code Photos Not Finals
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%201.PNG)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%202.png)
 ![](https://github.com/aniyahmoore28/Ultraonic-Robot/blob/main/Photos/Code%203.png)
